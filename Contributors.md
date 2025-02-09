@@ -996,6 +996,7 @@
 - [Wessel Steenkamp](https://github.com/wesse206)
 - [Eiheir](https://github.com/ebininin)
 - [Maria Carrera](https://github.com/MarieCourse)
+- Harrison Pape
 - [Joaquin D](https://github.com/Joaco273)
 - [Aditya Mitra](https://github.com/mitras-git)
 - [Anthony Ladon](https://github.com/AnthonyLadon)
